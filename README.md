@@ -1,23 +1,44 @@
-# 🚀 VIPS Git Workshop: The Wall of Fame
+# 🚀 Git Workshop: The Wall of Fame
 
-Welcome to your first Open Source contribution! 
+Welcome! This is the official repository for our Git & GitHub session. 
 
-## 🏆 The Mission
-Your goal is to add your own "card" to this repository.
+Your mission today is to make your first **Open Source Contribution** by adding your name to this project without breaking the code!
 
-## 📝 Steps to Win
+---
 
-1. **Fork** this repository (Click the button in the top right).
-2. **Clone** your forked copy to your laptop:
-   ```bash
-   git clone [https://github.com/harshil-sri/vips-git-workshop-2026.git](https://github.com/harshil-sri/vips-git-workshop-2026.git)
-3. Open the folder in VS Code.
-4. Create your file:
--> Go inside the participants folder.
--> Create a new file named: your_name.txt (e.g., harshil_srivastav.txt).
--> Inside the file, write a message, your branch, or a fun fact.
-5. Save and Push:
-```bash
-   git add .
-   git commit -m "Added my participant card"
-   git push origin main
+## 🏆 The Challenge
+To successfully complete this workshop, you must Fork this repo, add your own personal file, and Merge it back.
+
+## 📝 Steps to Complete
+
+### 1. Fork the Repository
+Click the **"Fork"** button in the top-right corner of this page. This creates a copy of this project on your own account.
+
+### 2. Clone to Your Laptop
+Open your terminal (or Git Bash) and run the following command:
+
+    git clone [https://github.com/harshil-sri/vips-git-challenge.git](https://github.com/harshil-sri/vips-git-challenge.git)
+
+### 3. Create Your File
+1. Open the project folder in VS Code.
+2. Navigate to the `participants` folder.
+3. **Create a NEW file** named `yourname.txt` (e.g., `harshil_srivastav.txt`).
+4. Inside the file, type your name, year, and a fun fact about yourself.
+5. **Save** the file.
+
+### 4. Push Your Changes
+Go back to your terminal and run these three commands:
+
+    git add .
+    git commit -m "Added my participant file"
+    git push origin main
+
+### 5. The Grand Finale (Pull Request)
+1. Go back to your GitHub repository page in the browser.
+2. You should see a yellow banner saying "Compare & pull request". Click it!
+3. Click **"Create pull request"**.
+
+---
+
+### 🎉 Congratulations!
+If you see the green "Open" status, you have officially contributed to a project! Wait for the host to merge your code.
