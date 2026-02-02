@@ -10,4 +10,4 @@ Your goal is to add your own "card" to this repository.
 1. **Fork** this repository (Click the button in the top right).
 2. **Clone** your forked copy to your laptop:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/vips-git-workshop-2026.git](https://github.com/YOUR_USERNAME/vips-git-workshop-2026.git)
+   git clone [https://github.com/harshil-sri/vips-git-workshop-2026.git](https://github.com/harshil-sri/vips-git-workshop-2026.git)
