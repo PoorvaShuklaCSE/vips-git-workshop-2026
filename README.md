@@ -17,7 +17,7 @@ Click the **"Fork"** button in the top-right corner of this page. This creates a
 ### 2. Clone to Your Laptop
 Open your terminal (or Git Bash) and run the following command:
 
-    git clone [https://github.com/harshil-sri/vips-git-challenge.git](https://github.com/harshil-sri/vips-git-challenge.git)
+    git clone https://github.com/harshil-sri/vips-git-challenge.git
 
 ### 3. Create Your File
 1. Open the project folder in VS Code.
